@@ -1,0 +1,5 @@
+"""Gospel Of Math Dismay — a local-first mathematics TTS studio."""
+__version__ = "0.1.0"
+APP_NAME = "Gospel Of Math Dismay"
+AUTHOR = "Карина × ChatGPT"
+YOUTUBE_URL = "https://youtube.com/channel/UC8fyga1pkFiMttNOXRmVx3g"

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9e9ff"/><stop offset="1" stop-color="#c68fe0"/></linearGradient></defs>
+  <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#bg)" stroke="#8d5aa3" stroke-width="7"/>
+  <path d="M38 83h180M38 173h180" stroke="#9e6fb0" stroke-width="4" stroke-linecap="round" opacity=".45"/>
+  <text x="128" y="145" text-anchor="middle" font-family="Cambria Math, Georgia, serif" font-size="118" font-weight="bold" fill="#4a285d">π</text>
+  <path d="M40 205h25l14-27 18 38 20-55 20 41 17-24 13 27h49" fill="none" stroke="#fffaff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="201" cy="54" r="8" fill="#ffffff"/><circle cx="218" cy="70" r="4" fill="#ffffff"/>
+</svg>

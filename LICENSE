@@ -1,0 +1,26 @@
+GOSPEL OF MATH DISMAY — ATTRIBUTION-REQUIRED SOURCE LICENSE 1.0
+
+Copyright (c) 2026 Карина × ChatGPT
+
+1. Permission
+Subject to the conditions below, permission is granted to any person obtaining a copy of the original Gospel Of Math Dismay source code (the "Software") to use, study, run, modify, and redistribute the Software and derivative source distributions, including for commercial purposes.
+
+2. Required attribution
+Every redistribution of the Software or a substantial portion of its source code, whether modified or unmodified, must preserve this license and copyright notice and must clearly credit:
+
+  "Gospel Of Math Dismay — Карина × ChatGPT"
+  https://youtube.com/channel/UC8fyga1pkFiMttNOXRmVx3g
+
+The attribution and link must appear in a reasonably visible location, such as a credits/about screen or accompanying documentation. If the Software is redistributed with a graphical user interface, the existing About/credits attribution must not be removed when it is present.
+
+3. Changes
+Modified redistributions must identify that they were modified and must not imply that the original authors endorse the changes. This license does not grant rights to use third-party trademarks beyond truthful attribution.
+
+4. Third-party components
+This license applies only to original project material authored for Gospel Of Math Dismay. It does not replace, narrow, or override the licenses of third-party libraries, engines, voice models, or assets. Those components remain subject to their own terms. Check THIRD_PARTY_LICENSES.md and each selected voice model's model card.
+
+5. No warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OR DISTRIBUTION OF THE SOFTWARE, TO THE EXTENT PERMITTED BY LAW.
+
+6. Legal note
+This is a custom attribution-required license, not an OSI-approved open-source license. It has not been reviewed by a lawyer and may not be enforceable in the same way in every jurisdiction. If formal legal certainty is needed, obtain qualified legal advice before distributing the Software.

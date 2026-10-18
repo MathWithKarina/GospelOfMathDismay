@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools==80.9.0", "wheel==0.45.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gospel-of-math-dismay"
+version = "0.1.0"
+description = "A local-first mathematics TTS and educational audio desktop studio"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+authors = [{name = "Карина × ChatGPT"}]
+license = {file = "LICENSE"}
+classifiers = ["Operating System :: Microsoft :: Windows :: Windows 10", "Operating System :: Microsoft :: Windows :: Windows 11", "Programming Language :: Python :: 3"]
+dependencies = ["PySide6==6.12.0", "numpy==2.3.5", "matplotlib==3.10.8"]
+
+[project.optional-dependencies]
+test = ["pytest==9.0.2"]
+
+[project.scripts]
+gomd = "gomd.app.entry:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools.package-data]
+gomd = ["resources/*.svg", "locales/*.json"]

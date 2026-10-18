@@ -1,0 +1,6 @@
+Gospel Of Math Dismay (GoMD) v0.1.0
+
+Project attribution: Карина × ChatGPT
+Creator channel: https://youtube.com/channel/UC8fyga1pkFiMttNOXRmVx3g
+
+The GoMD application source includes original code for mathematical text normalization, project/scene management, audio utility workflows, safe graph expression parsing, and a graphical shell. Third-party packages and downloadable voice models have separate licenses; see THIRD_PARTY_LICENSES.md. No voice model or external Piper executable is bundled in this archive.
