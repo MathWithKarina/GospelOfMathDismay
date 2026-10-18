@@ -54,7 +54,7 @@
 1. Скачай [GospelOfMathDismay-Setup.exe](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-Setup.exe).
 2. Запусти установщик.
 3. Следуй инструкциям мастера установки.
-4. Запусти GoMD из меню «Пуск» или с рабочего стола, если создала ярлык.
+4. Запусти GoMD из меню «Пуск» или с рабочего стола, если создал-(а) ярлык.
 
 ### Вариант 2. Portable
 
@@ -68,7 +68,7 @@
 
 1. Скачай [GospelOfMathDismay-src.zip](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip).
 2. Распакуй архив.
-3. Установи подходящую версию Python в соответствии с требованиями проекта.
+3. Установи подходящую версию Python в соответствии с требованиями проекта (3.11-3.13).
 4. Запусти `install_windows.bat`.
 5. После завершения установки запусти `run_windows.bat`.
 
@@ -129,7 +129,7 @@ Do not move the executable away from the other files in the distribution folder.
 
 1. Download [GospelOfMathDismay-src.zip](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip).
 2. Extract the archive.
-3. Install a suitable Python version according to the project's requirements.
+3. Install a suitable Python version according to the project's requirements. (3.11-3.13)
 4. Run `install_windows.bat`.
 5. Once installation finishes, run `run_windows.bat`.
 
