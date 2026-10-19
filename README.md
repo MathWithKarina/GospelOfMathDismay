@@ -6,21 +6,27 @@
 **Version:** `0.1.0`  
 **Status:** First public release — early development
 
-[🇷🇺 Русский](#русский) · [🇬🇧 English](#english) · [⬇️ Downloads](#downloads)
+[🇷🇺 Русский](#русский) · [🇬🇧 English](#english) · [⬇️ Downloads](#downloads) · [💗 Support the project](https://yoomoney.ru/to/4100119661468749/0)
 
 ---
 
 ## ⬇️ Скачать GoMD / Download GoMD
 
 <p align="center">
-  <a href="https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-Setup.exe"><img src="https://img.shields.io/badge/Windows-Setup-5271ff?style=for-the-badge" alt="Download Windows Setup"></a>
-  <a href="https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-portable.zip"><img src="https://img.shields.io/badge/Portable-ZIP-20a464?style=for-the-badge" alt="Download Portable ZIP"></a>
-  <a href="https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip"><img src="https://img.shields.io/badge/Source-Code-f08ab5?style=for-the-badge" alt="Download Source Code"></a>
+  <a href="https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-Setup.exe">
+    <img src="https://img.shields.io/badge/Windows-Setup-5271ff?style=for-the-badge" alt="Download Windows Setup">
+  </a>
+  <a href="https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-portable.zip">
+    <img src="https://img.shields.io/badge/Portable-ZIP-20a464?style=for-the-badge" alt="Download Portable ZIP">
+  </a>
+  <a href="https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip">
+    <img src="https://img.shields.io/badge/Source-Code-f08ab5?style=for-the-badge" alt="Download Source Code">
+  </a>
 </p>
 
-- **Windows Setup:** download the installer and follow the installation wizard.
-- **Portable:** download and extract the ZIP archive, then run `GospelOfMathDismay.exe` from the extracted folder.
-- **Source code:** download the source archive if you want to inspect, modify, or run the project yourself.
+- **Windows Setup:** Download the installer and follow the installation wizard.
+- **Portable:** Download and extract the ZIP archive, then run `GospelOfMathDismay.exe` from the extracted folder.
+- **Source code:** Download the source archive to inspect, modify, or run the project yourself.
 
 ### Other source archives
 
@@ -45,7 +51,7 @@
 - Дополнительные функции обработки и подготовки аудио.
 - Локально ориентированная архитектура приложения.
 
-Некоторые возможности могут быть экспериментальными, частично реализованными или ещё находиться в разработке.
+Некоторые возможности могут быть экспериментальными, частично реализованными или всё ещё находиться в разработке.
 
 ## Как запустить?
 
@@ -54,7 +60,7 @@
 1. Скачай [GospelOfMathDismay-Setup.exe](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-Setup.exe).
 2. Запусти установщик.
 3. Следуй инструкциям мастера установки.
-4. Запусти GoMD из меню «Пуск» или с рабочего стола, если создал-(а) ярлык.
+4. Запусти GoMD из меню «Пуск» или с рабочего стола, если создал(а) ярлык.
 
 ### Вариант 2. Portable
 
@@ -68,16 +74,25 @@
 
 1. Скачай [GospelOfMathDismay-src.zip](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip).
 2. Распакуй архив.
-3. Установи подходящую версию Python в соответствии с требованиями проекта (3.11-3.13).
+3. Установи подходящую версию Python в соответствии с требованиями проекта (3.11–3.13).
 4. Запусти `install_windows.bat`.
 5. После завершения установки запусти `run_windows.bat`.
 
 Если запускаешь проект не на Windows, дальнейшие действия, надеюсь, разберёшь самостоятельно. 🙂
 
+## 💗 Поддержать проект
+
+Если тебе нравится **Gospel Of Math Dismay** и ты хочешь поддержать его дальнейшее развитие, можешь отправить добровольный донат.
+
+**[💖 Поддержать GoMD на YooMoney](https://yoomoney.ru/to/4100119661468749/0)**
+
+Поддержка полностью добровольная. Донат не обязателен для использования программы.
+Спасибо ВСЕМ, кто поддержал *чмок* 💓💖💗💘💕💞💋🌹🔥😍😘😻❤️‍🔥❤️🥰
+
 ## Важные замечания
 
 - Версия `0.1.0` — ранний релиз, а не законченный продукт.
-- Некоторые функции могут работать неправильно или быть не реализованы полностью.
+- Некоторые функции могут работать неправильно или быть реализованы не полностью.
 - Доступность синтеза речи зависит от выбранного движка, голосовой модели и необходимых компонентов.
 - Лицензии сторонних библиотек, движков и голосовых моделей отличаются. Перед коммерческим использованием проверяй условия конкретного компонента.
 
@@ -106,7 +121,7 @@ This is the project's first public release. GoMD is still under development, so 
 - Additional audio preparation and processing features.
 - A locally oriented application architecture.
 
-Some features are experimental, partially implemented, or still in development.
+Some features may be experimental, partially implemented, or still in development.
 
 ## How to run
 
@@ -129,11 +144,20 @@ Do not move the executable away from the other files in the distribution folder.
 
 1. Download [GospelOfMathDismay-src.zip](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip).
 2. Extract the archive.
-3. Install a suitable Python version according to the project's requirements. (3.11-3.13)
+3. Install a suitable Python version according to the project's requirements (3.11–3.13).
 4. Run `install_windows.bat`.
 5. Once installation finishes, run `run_windows.bat`.
 
 If you're running the project on a non-Windows system, I hope you can figure out the rest yourself. 🙂
+
+## 💗 Support the Project
+
+If you enjoy **Gospel Of Math Dismay** and would like to support its future development, you can make a voluntary donation.
+
+**[💖 Support GoMD on YooMoney](https://yoomoney.ru/to/4100119661468749/0)**
+
+Donations are entirely optional and are not required to use the application.
+Thanks to ALL who supported *chuu* 💓💖💗💘💕💞💋🌹🔥😍😘😻❤️‍🔥❤️🥰
 
 ## Important notes
 
@@ -157,6 +181,12 @@ The original project source code is distributed under the license in [`LICENSE`]
 - [Windows installer](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-Setup.exe)
 - [Portable ZIP](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-portable.zip)
 - [Source ZIP](https://github.com/MathWithKarina/GospelOfMathDismay/releases/download/v0.1.0/GospelOfMathDismay-src.zip)
+- [GitHub source ZIP](https://github.com/MathWithKarina/GospelOfMathDismay/archive/refs/tags/v0.1.0.zip)
+- [GitHub source TAR.GZ](https://github.com/MathWithKarina/GospelOfMathDismay/archive/refs/tags/v0.1.0.tar.gz)
 - [All releases](https://github.com/MathWithKarina/GospelOfMathDismay/releases)
 
+---
+
 **Made with care by Карина × ChatGPT.** 💗
+
+[💖 Support GoMD on YooMoney](https://yoomoney.ru/to/4100119661468749/0)
